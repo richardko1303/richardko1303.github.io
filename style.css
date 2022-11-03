@@ -111,8 +111,15 @@ fs-small {
         width: 100%;
         margin: 0;
     }
+    .input {
+
+    }
     .post {
         margin-top: 10px;
         margin-left: 0px;
+        color: black;
+    }
+    .delete {
+        color: black;
     }
 }

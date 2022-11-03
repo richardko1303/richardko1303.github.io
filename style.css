@@ -118,6 +118,7 @@ fs-small {
         margin-top: 10px;
         margin-left: 0px;
         color: black;
+        text-align: center;
     }
     .delete {
         color: black;
